@@ -1,5 +1,5 @@
 <div id="header" align="center"> 
-<img src="https://i.imgur.com/JD7rDWB.png" width="800px">
+  <img src="https://i.imgur.com/JD7rDWB.png" width="800px">
 </div>
 
 <div id="badges" align="center">
@@ -14,7 +14,9 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=iam-yi&style=flat-square&color=blue" alt="" align="center"/>
+<div id="sub-badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=iam-yi&style=flat-square&color=blue" alt="" />
+</div>
 
 
 

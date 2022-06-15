@@ -21,6 +21,7 @@
 ---
 
 ### :woman_technologist: About Me :
+I am a Full Stack Developer in San Jose, CA.
 <ul>
   <li></li>
   <li></li>

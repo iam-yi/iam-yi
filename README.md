@@ -46,4 +46,9 @@ I am a Full Stack Developer in San Jose, CA.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+---
+
+### :bookmark_tabs: Projects :
+
+
 

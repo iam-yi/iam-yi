@@ -23,7 +23,7 @@
 ### :woman_technologist: About Me :
 I am a Full Stack Developer in San Jose, CA.
 <ul>
-  <li></li>
+  <li>Complete 420 hours Software Engineer BootCamp at General Assembly</li>
   <li></li>
   <li></li>
 </ul>

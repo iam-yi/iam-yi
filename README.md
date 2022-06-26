@@ -55,9 +55,21 @@ I am a Full Stack Developer in San Jose, CA.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iam-yi&repo=blackjack&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="blackjack" />
 </a>
 
-<a href="https://github.com/iam-yi/blackjack">
+<a href="https://github.com/iam-yi/flight-training">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iam-yi&repo=flight-training&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="flight-training" />
 </a>
+
+<a href="https://github.com/iam-yi/blindspot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iam-yi&repo=blindspot&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="blindspot" />
+</a>
+
+<a href="https://github.com/iam-yi/MotorcycleMeetUp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iam-yi&repo=MotorcycleMeetUp&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="MotorcycleMeetUp" />
+</a>
+
+
+
+
 
 
 

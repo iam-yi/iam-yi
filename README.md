@@ -3,6 +3,9 @@
 </div>
 
 <div id="badges" align="center">
+  <a href="https://iam-yi.github.io/">
+    <img src="https://img.shields.io/badge/portfolio-red?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/msyili/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>

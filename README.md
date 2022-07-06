@@ -27,7 +27,6 @@
 I am a Full Stack Developer in San Jose, CA.
 <ul>
   <li>Complete 420 hours Software Engineer BootCamp at General Assembly</li>
-  <li>I am current continue studying and  practise on Leetcode</li>
   <li>Looking for software engineer job near San Jose/ Bay Area</li>
   <li>Love Cat, Plants, and Flighting </li>
 </ul>
